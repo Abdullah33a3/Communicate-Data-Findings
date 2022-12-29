@@ -18,6 +18,6 @@
 
 ## Key Insights for Presentation
 > In the presentation, the aim was to deliver three main insights:
->* 1- Best city for wind power investments in Texas is Dallas.
->* 2- The most influential meteorological factor on electric load is the temperature.
->* 3- The electric demand reaches its peak in the summer.
+>* Best city for wind power investments in Texas is Dallas.
+>* The most influential meteorological factor on electric load is the temperature.
+>* The electric demand reaches its peak in the summer.
