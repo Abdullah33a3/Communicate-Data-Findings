@@ -10,7 +10,7 @@
 
 ## Dataset
 
-> The datasets are load data and weather data. The datasets can be retrieved from the following references:
+> The datasets used in this project are electric load data and weather data. The datasets can be retrieved from the following references:
 
 > - Weather Data:
 > https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data?select=pressure.csv
